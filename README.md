@@ -1,5 +1,7 @@
 # Olá! Eu sou Marcus Holanda 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python;Rust;R)](https://git.io/typing-svg)
+
 Sou um entusiasta em **Engenharia e Análise de Dados**, estudando as linguagens **Python**, **R** e **Rust** para desenvolver habilidades robustas e aplicáveis no tratamento e análise de dados.
 
 ### 🔍 Sobre mim
